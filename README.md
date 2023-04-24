@@ -27,6 +27,12 @@ Hot Reload in chrome-extension
 yarn build:watch
 ```
 
+zip
+
+```
+yarn build:zip
+```
+
 ## Reference
 
 - [Chrome Developers Docs for extensions](https://developer.chrome.com/docs/extensions/)
